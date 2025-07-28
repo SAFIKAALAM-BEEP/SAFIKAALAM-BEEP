@@ -37,10 +37,9 @@ I’m a junior at **Hunter College** pursuing a degree in **Computer Science**, 
 
 ### 🎨 **Featured Projects**  
 <!-- Mini Project Cards (Replace with your own repos) -->
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[](https://github.com/SAFIKAALAM-BEEP/Datakit2025)** | Analysis of Philippines Statistics Authority datasets to identify demographic predictors of financial in-
-clusion, aggregating data by location and examining feature correlations as part of DataKind’s DataKit Hackathon. |
+| Project | Description |
+|---------|-------------|
+| **[Philippines Statistics Authority Analysis](https://github.com/SAFIKAALAM-BEEP/Datakit2025)** | Analysis of Philippines Statistics Authority datasets to identify demographic predictors of financial inclusion, aggregating data by location and examining feature correlations as part of DataKind’s DataKit Hackathon. |
 | **[Star Atlas](https://github.com/SAFIKAALAM-BEEP/constellation)** | 90s-themed website as part of Codex’s Holiday Mini Hackathon, inspired by vintage internet aesthetics
 and the exploration of constellations. |
 
