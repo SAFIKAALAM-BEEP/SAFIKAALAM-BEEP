@@ -44,5 +44,5 @@ I’m a junior at **Hunter College** pursuing a degree in **Computer Science**, 
 
 <!-- Fun GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="200" alt="Coding Cat">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="600" alt="Coding Cat">
 </p>
