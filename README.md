@@ -18,7 +18,7 @@ I’m a junior at **Hunter College** pursuing a degree in **Computer Science**, 
 
 ---
 
-### 📝 **Writing & Leadership**  
+### 📝 **Leadership**  
 - **Copywriter** @ [Hunter College CS Club]([https://link-to-club-website](https://huntercsclub.com/)) – Crafting content to engage students in tech.  
 - **Fellow** at [Breakthrough Tech](https://breakthroughtech.org/), and [CodePath]([https://www.hunterwics.com/](https://www.codepath.org/)).  
 
@@ -31,6 +31,20 @@ I’m a junior at **Hunter College** pursuing a degree in **Computer Science**, 
 ---
 
 ### 🌐 **Let’s Connect!**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/safika-alam/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alamsafikaany05.com)  
 
+
+### 🎨 **Featured Projects**  
+<!-- Mini Project Cards (Replace with your own repos) -->
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[](https://github.com/SAFIKAALAM-BEEP/Datakit2025)** | Analysis of Philippines Statistics Authority datasets to identify demographic predictors of financial in-
+clusion, aggregating data by location and examining feature correlations as part of DataKind’s DataKit Hackathon. |
+| **[Star Atlas](https://github.com/SAFIKAALAM-BEEP/constellation)** | 90s-themed website as part of Codex’s Holiday Mini Hackathon, inspired by vintage internet aesthetics
+and the exploration of constellations. |
+
+<!-- Fun GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="200" alt="Coding Cat">
+</p>
