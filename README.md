@@ -46,7 +46,3 @@ I’m a junior at **Hunter College** pursuing a degree in **Computer Science**, 
 <p align="center">
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="600" alt="Coding Cat">
 </p>
-
-📌 **Weekly Development Breakdown**
-<!-- From https://wakatime.com -->
-<img src="https://wakatime.com/share/@SAFIKAALAM-BEEP/XXXXXXXXXXXXXXXX.svg" width="500">
