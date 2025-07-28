@@ -49,4 +49,4 @@ I’m a junior at **Hunter College** pursuing a degree in **Computer Science**, 
 
 📌 **Weekly Development Breakdown**
 <!-- From https://wakatime.com -->
-<img src="https://wakatime.com/share/@YOUR-USERNAME/XXXXXXXXXXXXXXXX.svg" width="500">
+<img src="https://wakatime.com/share/@SAFIKAALAM-BEEP/XXXXXXXXXXXXXXXX.svg" width="500">
