@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Safika Alam!
 
-### **Computer Science Student | Bioinformatics Enthusiast | STEM Advocate**  
+### **Computer Science Student | Bioinformatics Enthusiast**  
 
 I’m a junior at **Hunter College** pursuing a degree in **Computer Science**, with a passion for applying computational tools to biological challenges. My goal is to explore **bioinformatics** through research, open-source contributions, and interdisciplinary collaboration.  
 
